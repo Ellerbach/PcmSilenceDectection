@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/PcmSilenceDetection
+/PcmSilenceDetection/.vs/PcmSilenceDetection
+/PcmSilenceDetection/bin
+/PcmSilenceDetection/obj
+/SilenceDetection/bin
+/SilenceDetection/obj/Debug
+/SilenceDetection/obj/Release/netstandard2.1
+/SilenceDetection/obj
+/TestSilenceDetection/bin
+/TestSilenceDetection/obj
